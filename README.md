@@ -1,8 +1,5 @@
-# Cypress E2E тесты
-
 ## Запуск
 - UI: `npm run cypress:open`
-- CI: `npm run test:e2e`
 
 ## Покрыто
 - Логин через UI
